@@ -1,1 +1,1 @@
-# E-commerce-Project
+The Online Delivery E-Commerce Application is a full-stack web application designed to provide a seamless shopping experience for users. It enables customers to browse products, add items to their cart, make secure payments, and track orders in real time. The platform supports multiple categories of products, offering a user-friendly interface and efficient order management.
